@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikolaj⌨️</h1>
-<h3 align="center">Junior full-stack developer, You've been looking for!</h3>
+<h3 align="center"> Junior full-stack developer, You've been looking for! </h3>
 
 - 👨‍💻 All of my projects are available at [https://bajserowiczmikolaj.github.io/Portfolio/#projects](https://bajserowiczmikolaj.github.io/Portfolio/#projects)
 
